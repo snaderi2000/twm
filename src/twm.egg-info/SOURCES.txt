@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/models/__init__.py
+src/models/impala_cnn.py
+src/twm.egg-info/PKG-INFO
+src/twm.egg-info/SOURCES.txt
+src/twm.egg-info/dependency_links.txt
+src/twm.egg-info/top_level.txt

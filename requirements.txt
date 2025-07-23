@@ -1,0 +1,25 @@
+# Core JAX
+jax[cpu] >= 0.4.20            # or jax[cuda12_pip] if using GPU
+flax >= 0.7.0
+optax >= 0.1.7
+distrax >= 0.1.4
+
+# Environments
+gymnax >= 0.0.4               # Gymnax environments (JAX-based)
+brax >= 0.9.1                 # Optional, if you want physics-based envs
+
+# Testing
+pytest >= 7.0
+
+# Logging and analysis
+tensorboardX >= 2.6
+matplotlib >= 3.5
+numpy >= 1.22
+
+# Others (Optional but recommended)
+chex >= 0.1.7                 # For type checking/debugging with JAX
+
+
+navix 
+typing
+craftax

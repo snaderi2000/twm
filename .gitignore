@@ -1,0 +1,7 @@
+# Ignore wandb logs
+wandb/
+
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+
